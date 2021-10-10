@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋, I am Mason.
+
+# About Me
+
+- 🌱 Undergraduate Data Science student at The University of Melbourne
+- 💎 Data Science Enthusiast
+- 📑 View My Resume[]
+- ‏‏‎ ‎‏‏‎[LinkedIn Profile](https://www.linkedin.com/in/zhehong-zhang-1b59291a8/)
 
 <!--
 **Meatssauce/Meatssauce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
