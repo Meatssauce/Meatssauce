@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Mason.
 
-# About Me
+## About Me
 
 - 🌱 Undergraduate Computer Science student at The University of Melbourne
 - 💎 AI and machine learning Enthusiast
